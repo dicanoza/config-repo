@@ -1,4 +1,4 @@
-my.message : V1 message
+my.message : V1 message as
 eureka:
   client:
     service-url:
